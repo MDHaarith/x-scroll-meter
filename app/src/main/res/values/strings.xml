@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X Scroll Meter</string>
+    <string name="service_desc">Counts how far you scroll in the X app and how many posts and reels you pass. It only receives scroll events from X; it never reads post content.</string>
+</resources>
