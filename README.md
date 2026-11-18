@@ -14,7 +14,7 @@ Data stays on the phone (SharedPreferences). No network permission.
 
 ## Install
 
-1. Download `app-debug.apk` from [Releases](../../releases) and install it.
+1. Download the APK from [Releases](../../releases) and install it.
 2. Open the app, tap **Tracking OFF · tap to enable**, and turn on X Scroll Meter.
 3. On Android 13+, if the switch is greyed out: App info → ⋮ → **Allow restricted settings**, then retry.
 
